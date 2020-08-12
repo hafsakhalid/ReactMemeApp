@@ -1,0 +1,24 @@
+* { 
+    margin: 0;
+    padding: 0
+} 
+
+
+header { 
+    background-color: lightblue;
+    font-size: 30px; 
+    color: darkblue; 
+    display:flex; 
+}
+h1 { 
+    
+    text-align: center;
+}
+
+img { 
+ width: 10%;
+ height: auto
+}
+
+
+
